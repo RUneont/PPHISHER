@@ -5,7 +5,6 @@ PACKAGE_ARCH=all
 DISTRO=$(uname -o)
 
 
-
 build_package() {
         # define variables depending on detected platform
         distr_name=$1
