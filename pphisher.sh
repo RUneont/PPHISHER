@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 ##   PPHISHER 	: 	Automated Phishing Tool
 ##   Author 	: 	BTS HATERXD 
 ##   Version 	: 	1.0
